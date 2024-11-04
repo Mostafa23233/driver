@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundButton">#1f1f1f</color>
+    <color name="backGroundActivity">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="iconColor">#ffffff</color>
+    <color name="materialButtonTextColor">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="yellow">#fbc63a</color>
+    <color name="yellowLight">#9CFBC63A</color>
+    <color name="orange">#ff9f43</color>
+    <color name="gray">#EFEFEF</color>
+    <color name="lightDarkGray">#B3B6BE</color>
+    <color name="darkGray">#828388</color>
+    <color name="ShimmerGray">#e2e2e2</color>
+    <color name="red">#DA0606</color>
+    <color name="successColor">#66bb6a</color>
+    <color name="backgroundToolbar">#FFFFFF</color>
+    <color name="backgroundMap">#55565e</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="darkPrimary">#121212</color>
+    <color name="darkPrimaryDark">#000000</color>
+    <color name="darkAccent">#ffffff</color>
+</resources>

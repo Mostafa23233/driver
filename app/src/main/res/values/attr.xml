@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dividerColor" format="color"/>
+    <attr name="darkGaryColor" format="color"/>
+    <attr name="ShimmerColor" format="color"/>
+    <declare-styleable name="DarbastToolbar">
+        <attr name="dt_title" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="DarbastProgressButton">
+        <attr name="progress" format="string" />
+    </declare-styleable>
+</resources>

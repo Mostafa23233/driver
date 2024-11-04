@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbarHeight">50dp</dimen>
+    <dimen name="toolbarMenuHeight">0dp</dimen>
+    <dimen name="toolbarMenuWidth">40dp</dimen>
+    <dimen name="marginActivity">8dp</dimen>
+    <dimen name="marginIcon">8dp</dimen>
+    <dimen name="allProgressbar">50dp</dimen>
+</resources>
